@@ -4,6 +4,11 @@ Pre-Master Student Data Science (JADS) | Erasmus University Alumnus
 
 [LinkedIn](https://www.linkedin.com/in/tess-de-graaf-64676229a/)
 
+## Current focus
+
+Doing the JADS pre-master, moving on to the Master's in Data Science in
+Business and Entrepreneurship at Tilburg University and TU Eindhoven.
+
 ## Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
