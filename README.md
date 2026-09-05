@@ -20,11 +20,6 @@ Business and Entrepreneurship at Tilburg University and TU Eindhoven.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 
-## GitHub stats
-
-![Tess's GitHub stats](https://github-readme-stats.vercel.app/api?username=tessdg&show_icons=true&theme=default&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tessdg&layout=compact&hide_border=true)
-
 ## Featured projects
 
 **[reddit-speedskaters-genderanalysis](https://github.com/tessdg/reddit-speedskaters-genderanalysis)**
